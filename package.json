@@ -1,0 +1,10 @@
+{
+  "dependencies": {
+    "@types/node": "^20.1.6",
+    "typescript": "^5.0.4"
+  },
+  "scripts": {
+    "build": "tsc",
+    "start": "node ./stitch.js"
+  }
+}
